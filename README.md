@@ -1,14 +1,10 @@
-## Sigh. Another girl. 
+## Hello World
 
-As that was the welcoming message, the tiny, curly haired, really dark brown baby born in a remote village in India barely knew what life had in stock. The welcoming message was soon followed with a caste certificate which read in bold.
-
-Backward Class. 
-
-Oh me, Welcome to the world.
+...
 
 ### Golden Childhood
 
-Spent the first four years staring at the emerald blue seas of [Rameswaram, India] (https://goo.gl/maps/TmgbaF5iFuosT93HA)
+Spent the first four years staring at the emerald blue seas of [Rameswaram, India](https://goo.gl/maps/TmgbaF5iFuosT93HA)
 
 ```markdown
 https://goo.gl/maps/TmgbaF5iFuosT93HA

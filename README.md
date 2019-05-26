@@ -24,21 +24,6 @@ You get a gist of Indian High School madness.
 
 ## Grad
 
-## Work life
+## Work
 
-```markdown
-https://goo.gl/maps/TmgbaF5iFuosT93HA
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+## Retirement

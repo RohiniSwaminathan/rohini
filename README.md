@@ -21,8 +21,21 @@ Wake up at 5:30am, Physics 6-7, School 7:30-17, Chemistry 17:30-18:30, Math 19-2
 You get a gist of Indian High School madness. 
 
 ## Undergrad
+Engineering or Medicine? 
+Given this wide variety of choices, she picked Engineering. But the odd sheep that she has always been, she picked Geomatics Engineering in that. And spent the next four years explaining to every Tom, Dick and Harry what exactly that is, and why she ruined her life studying something that will never get a job. 
+Four years of partially fun filled college days came to an end, with her doing a weird internship every summer.
+
+2008 - Inventory Mapping in Salem Steel Plant (Why, no idea - she just loved riding those raw ore carrying goods trains all day in the summer heat)
+2009 - 3D laser mapping in Stuttgart Germany as a DAAD Scholar
+2010 - Mapping air pollution using satellite data in Banglore, India
 
 ## Grad
+Packed two big bags of stuff, mainly spices and landed in the middle of corn fields with her broken English, for days she couldn't figure out what in the holy world she just did. Days became weeks and weeks became months with colorful maple leaves turning to snow storms to blooming daffodils. She went round and round Purdue University, Indiana, USA (_Hoosier forever_) and one fine summer she could do this 
+<image>
+
+MS in Geomatics Engineering
+
+Oh and how exactly did she pay for her school? She didn't. Her story telling nature along with her eagerness in HTML had her work partime at the University's Communication Department and that did. 
 
 ## Work
 

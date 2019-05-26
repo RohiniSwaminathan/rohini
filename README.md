@@ -5,6 +5,13 @@
 ### Golden Childhood
 
 Spent the first four years staring at the emerald blue seas of [Rameswaram, India](https://goo.gl/maps/mUVw2cxbFnBCR3JYA)
+Life got a sweet upgrade, as my parents moved to a remote settlement in a forest. Growing up with monkeys and mangoes and saying hello to the rare planes that passby, the next 10 years were filled with insane amount of adventures. 
+
+### High School
+Oh, I hated it. Not the studying part, I actually kind of really liked it. But look back, it was insane. Wake up at 5:30am, Physics 6-7, School 7:30 - 5, Chemistry 5:30 - 6:30, Math 7-8, Go back home and catch up on all the homeworks until midnight and repeat for four whole years. You get a gist of Indian High School madness. 
+
+## Undergrad
+
 
 ```markdown
 https://goo.gl/maps/TmgbaF5iFuosT93HA
@@ -22,13 +29,3 @@ https://goo.gl/maps/TmgbaF5iFuosT93HA
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RohiniSwaminathan/rohini.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

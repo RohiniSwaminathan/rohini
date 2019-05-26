@@ -6,21 +6,21 @@ Looking back on this wild journey so far, it is only fair to mark down how the m
 
 (_you think it might be a little obnoxious to think the whole world had to work for her, tune in to see why she believes that_). 
 
-### Golden Childhood
+## Golden Childhood
 
 She spent the first four years staring at the beautiful, emerald blue seas of [Rameswaram, India](https://goo.gl/maps/mUVw2cxbFnBCR3JYA)
 It was also the closest point for refugees coming in from Sri Lanka. Boats and Boats and Boats arrived to the tiny island. 
 
 Life got a sweet upgrade, as her parents moved to a remote settlement in a forest. Growing up with monkeys and mangoes and saying hello to the rare planes that passby, the next 10 years were filled with insane amount of adventures. 
 
-### High School
+## Hectic High School
 
 Oh, She hated it. Not the studying part, She actually kind of really liked it. But looking back, it was pure insanity. 
 Wake up at 5:30am, Physics 6-7, School 7:30-17, Chemistry 17:30-18:30, Math 19-20:30, Go back home and catch up on all the homeworks until midnight and repeat for four whole years. 
 
 You get a gist of Indian High School madness. 
 
-## Undergrad
+## Confused College Days
 
 Engineering or Medicine? 
 
@@ -31,7 +31,7 @@ Four years of partially fun filled college days came to an end, with her doing a
 - 2009 - 3D laser mapping in Stuttgart Germany as a DAAD Scholar
 - 2010 - Mapping air pollution using satellite data in Banglore, India
 
-## Grad
+## Glim Grad
 
 Packed two big bags of stuff, mainly spices and landed in the middle of corn fields with her broken English, for days she couldn't figure out what in the holy world she just did. Days became weeks and weeks became months with colorful maple leaves turning to snow storms to blooming daffodils. She went round and round Purdue University, Indiana, USA (_Hoosier forever_) and one fine summer she could do this 
 <image>
@@ -61,5 +61,5 @@ _(pun intented)_
 
 ### UN World Food Programme (UN WFP)
 
-## Retirement
+## Rapid Retirement
 ... Coming soon.

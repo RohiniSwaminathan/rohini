@@ -1,4 +1,4 @@
-# The wild journey so far
+The wild journey so far
 
 ## Hello World
 Little did that curly haired, dark skinned, unusually skinny baby born in a remote village in South India knew what life had in store for her. All the odds were against her. Child mortality, female infanticide, caste violence, civil protests, poverty, infectious diseases, natural hazards - you name it, the graphs weren't where they should have been. 

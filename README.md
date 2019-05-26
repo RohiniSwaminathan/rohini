@@ -45,22 +45,29 @@ Oh and how exactly did she pay for her school? She didn't. Her story telling nat
 
 ### NASA DEVELOP National Program
 
+
 ### Unemployed
 
 Having failed to secure a work visa, she left the United States and returned home. Being unemployed thought her some of the toughest and profound lessons she would ever learn. 
 
 She moved to Vietnam and taught English in a Cafe for a while there. (Ah Why not?)
 
+
 ### UN Employed 
 _(pun intented)_
 
 ### UN Institute for Training and Development (UNITAR-UNOSAT)
 
+
 ### World Health Organization (WHO)
+
 
 ### UN Development Programme (UNDP)
 
+
 ### UN World Food Programme (UN WFP)
 
+
 ## Rapid Retirement
+
 ... Coming soon.

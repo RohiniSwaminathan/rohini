@@ -1,6 +1,6 @@
-## Hello World
+## The wild journey so far
 
-...
+Little did that curly haired, dark skinned, unusually skinny baby born in a remote village in South India knew what life had in store for her. Looking back on this wild journey so far, it is only fair to mark down how global efforts got her this far (_you think it might be a little obnoxious to think the whole world had to work for her, tune in to see why I believe that_). 
 
 ### Golden Childhood
 
